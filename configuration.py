@@ -1,4 +1,4 @@
-URL_SERVICE = " https://cnt-3af8783b-240e-40b4-b643-76f8117512c3.containerhub.tripleten-services.com"
+URL_SERVICE = "https://cnt-68ccf47a-6a55-4fcc-9de4-fff08bb09442.containerhub.tripleten-services.com"
 # URL del servidor de prueba
 CREATE_USER_PATH = "/api/v1/users/"
 # Ruta de creación de usuario

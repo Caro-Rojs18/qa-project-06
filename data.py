@@ -43,13 +43,6 @@ kit_bodies = {
 }
 
 
-def positive_assert(kit_response, expected_status_code, name):
-        assert kit_response.status_code == expected_status_code
-        assert kit_response.json()["name"] == name
-
-
-def negative_assert(kit_response, expected_status_code):
-    assert kit_response.status_code != expected_status_code
 
 
 
